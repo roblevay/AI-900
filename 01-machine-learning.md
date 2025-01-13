@@ -1,11 +1,12 @@
 ## Skapa en resurs-grupp
 
-```bash
+bash
 az group create --location eastus --resource-group airg
 
 
 ## Skapa ett machine-learning kommando:
 
+bash
 workspace_name="amlws-$RANDOM"
 az ml workspace create \
  --name $workspace_name \
@@ -15,5 +16,6 @@ az ml workspace create \
 
 ## Efter labben, ta bort resursgruppen och allt innehåll i den
 
+bash
 az group delete --name airg --yes --no-wait
 ```

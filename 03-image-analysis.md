@@ -5,7 +5,7 @@
 az group create --location eastus --resource-group airg
 ```
 
-## Skapa ett machine-learning kommando:
+## Skapa ett multiservices-konto
 
 ```bash
 az cognitiveservices account create \

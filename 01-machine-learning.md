@@ -21,7 +21,7 @@ az group delete --name airg --yes --no-wait
 ```
 ## Machine-learning-jobbet
 
-Detta jobb tar ungefär 10 minuter
+Detta jobb tar ungefär 10-15 minuter
 
 ## Deply av Machine-learning-jobbet
 

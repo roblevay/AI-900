@@ -20,7 +20,7 @@
 
 [Azure-portalen](https://portal.azure.com/#home)
 
-[Machine-learning](https://ml.azure.com/?azure-portal=true
+[Machine-learning](https://ml.azure.com/?azure-portal=true)
 
 
 

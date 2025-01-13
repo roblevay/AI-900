@@ -19,3 +19,6 @@ az ml workspace create \
 ```bash
 az group delete --name airg --yes --no-wait
 ```
+## Machinelearning jobbet
+
+Detta jobb tar ungfär 10 minuter

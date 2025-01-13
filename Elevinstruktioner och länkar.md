@@ -22,6 +22,8 @@
 
 [Machine-learning](https://ml.azure.com/?azure-portal=true)
 
+[Content Safety](https://contentsafety.cognitive.azure.com/?azure-portal=true)
+
 
 
    

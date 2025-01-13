@@ -1,6 +1,8 @@
 ## Skapa en resurs-grupp
 
+```bash
 az group create --location eastus --resource-group airg
+
 
 ## Skapa ett machine-learning kommando:
 
@@ -10,6 +12,8 @@ az ml workspace create \
  --resource-group airg \
  --location eastus
 
+
 ## Efter labben, ta bort resursgruppen och allt innehåll i den
 
 az group delete --name airg --yes --no-wait
+```

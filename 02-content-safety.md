@@ -12,7 +12,7 @@ az cognitiveservices account create \
     --resource-group airg \
     --location eastus \
     --kind ContentSafety \
-    --sku F0 \
+    --sku S0 \
     --yes
 ```
 

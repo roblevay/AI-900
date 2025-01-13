@@ -15,3 +15,13 @@
 5. **Practice Tests**  
    [AI-900 Practice Tests](https://www.measureup.com/catalogsearch/result/?q=ai900)  
    _Övningsprov från MeasureUp som efterliknar examenens struktur och innehåll._
+
+## Portaler
+
+[Azure-portalen](https://portal.azure.com/#home)
+
+[Machine-learning](https://ml.azure.com/?azure-portal=true
+
+
+
+   

@@ -8,14 +8,12 @@ az group create --location eastus --resource-group airg
 
 ```bash
 az cognitiveservices account create \
-  --name <ditt-unika-namn> \
+  --name initialermylanguage \
   --resource-group airg \
   --kind Language \
   --sku F0 \
   --location eastus \
   --yes \
-  --api-properties "[]" \
-  --tags Purpose=LanguageService
 ```
 
 ## Efter labben, ta bort resursgruppen och allt innehåll i den

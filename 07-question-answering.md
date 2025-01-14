@@ -8,13 +8,12 @@ az group create --location eastus --resource-group airg
 
 ```bash
 az cognitiveservices account create \
-  --name initialermylanguage \
+  --name initialermymultiaccount \
   --resource-group airg \
-  --kind TextAnalytics \
-  --sku S \
+  --kind CognitiveServices \
+  --sku S0 \
   --location eastus \
   --yes
-
 ```
 
 ## Efter labben, ta bort resursgruppen och allt innehåll i den

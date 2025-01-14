@@ -24,6 +24,6 @@
 
 [Content Safety](https://contentsafety.cognitive.azure.com/?azure-portal=true)
 
-
+[Language Studio](https://language.cognitive.azure.com/?azure-portal=true)
 
    

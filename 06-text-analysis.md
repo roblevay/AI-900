@@ -10,10 +10,11 @@ az group create --location eastus --resource-group airg
 az cognitiveservices account create \
   --name initialermylanguage \
   --resource-group airg \
-  --kind Language \
+  --kind TextAnalytics \
   --sku S \
-  --location eastus2 \
-  --yes \
+  --location eastus \
+  --yes
+
 ```
 
 ## Efter labben, ta bort resursgruppen och allt innehåll i den

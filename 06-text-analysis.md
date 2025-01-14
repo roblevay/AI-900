@@ -11,8 +11,8 @@ az cognitiveservices account create \
   --name initialermylanguage \
   --resource-group airg \
   --kind Language \
-  --sku F0 \
-  --location eastus \
+  --sku S \
+  --location eastus2 \
   --yes \
 ```
 
@@ -20,3 +20,4 @@ az cognitiveservices account create \
 
 ```bash
 az group delete --name airg --yes --no-wait
+```

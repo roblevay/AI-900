@@ -22,8 +22,26 @@ az cognitiveservices account create \
     --sku S0 \
     --location eastus \
     --yes
-
 ```
+
+## Skapa storage konto
+```bash
+az storage account create \
+    --name initialerstorage \
+    --resource-group airg \
+    --location eastus2 \
+    --sku Standard_LRS \
+    --kind StorageV2
+```
+
+## Tillåt anonym åtkomst
+```bash
+az storage account update \
+    --name initialerstorage \
+    --resource-group airg \
+    --set allowBlobPublicAccess=true
+```
+
 
 ## Efter labben, ta bort resursgruppen och allt innehåll i den
 

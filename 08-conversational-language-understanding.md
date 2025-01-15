@@ -4,17 +4,6 @@
 az group create --location eastus --resource-group airg
 ```
 
-## Skapa language-resurs
-
-```bash
-az cognitiveservices account create \
-  --name initialermymultiaccount \
-  --resource-group airg \
-  --kind CognitiveServices \
-  --sku S0 \
-  --location eastus \
-  --yes
-```
 
 ## Efter labben, ta bort resursgruppen och allt innehåll i den
 

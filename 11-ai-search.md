@@ -16,7 +16,7 @@ az search service create \
 ## Skapa en services resurs
 ```bash
 az cognitiveservices account create \
-    --name initialerservice2 \
+    --name initialerservice \
     --resource-group airg \
     --kind CognitiveServices \
     --sku S0 \

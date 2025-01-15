@@ -27,3 +27,5 @@
 [Language Studio](https://language.cognitive.azure.com/?azure-portal=true)
 
 [Speech studio](https://speech.microsoft.com/)
+
+[Document Intelligence Studio](https://formrecognizer.appliedai.azure.com/studio)

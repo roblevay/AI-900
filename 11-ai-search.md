@@ -1,15 +1,20 @@
+## Skapa en resurs-grupp
 
+```bash
+az group create --location eastus --resource-group airg
+```
 
-
-
-
+## Skapa en search resurs
+```bash
 az search service create \
     --name initialersearch \
     --resource-group airg \
     --sku Basic \
     --location eastus
+```
 
-
+## Skapa en services resurs
+```bash
 az cognitiveservices account create \
     --name initialerservices \
     --resource-group airg \
@@ -17,3 +22,19 @@ az cognitiveservices account create \
     --sku S0 \
     --location eastus \
     --yes
+
+```
+
+## Efter labben, ta bort resursgruppen och allt innehåll i den
+
+```bash
+az group delete --name airg --yes --no-wait
+```
+
+
+
+
+
+
+
+

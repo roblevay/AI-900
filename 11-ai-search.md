@@ -29,7 +29,7 @@ az cognitiveservices account create \
 az storage account create \
     --name initialerstorage \
     --resource-group airg \
-    --location eastus2 \
+    --location eastus \
     --sku Standard_LRS \
     --kind StorageV2
 ```

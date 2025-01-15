@@ -16,9 +16,9 @@ az search service create \
 ## Skapa en services resurs
 ```bash
 az cognitiveservices account create \
-    --name initialerservices \
+    --name initialerservice2 \
     --resource-group airg \
-    --kind OpenAI \
+    --kind CognitiveServices \
     --sku S0 \
     --location eastus \
     --yes

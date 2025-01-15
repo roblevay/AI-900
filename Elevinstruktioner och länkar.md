@@ -29,3 +29,5 @@
 [Speech studio](https://speech.microsoft.com/)
 
 [Document Intelligence Studio](https://formrecognizer.appliedai.azure.com/studio)
+
+[Azure AI Foundry](https://ai.azure.com/)

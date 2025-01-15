@@ -4,7 +4,7 @@
 
 
 az cognitiveservices account create \
-    --name initialerspeech \
+    --name initialerdocument \
     --resource-group airg \
     --kind FormRecognizer \
     --sku F0 \

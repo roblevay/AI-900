@@ -10,7 +10,7 @@ az group create --location eastus --resource-group airg
 az cognitiveservices account create \
     --name initialertranslator \
     --resource-group airg \
-    --kind Translator \
+    --kind TextTranslation \
     --sku S1 \
     --location eastus \
     --yes

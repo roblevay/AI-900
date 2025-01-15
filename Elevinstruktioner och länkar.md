@@ -26,4 +26,4 @@
 
 [Language Studio](https://language.cognitive.azure.com/?azure-portal=true)
 
-   
+[Speech studio](https://speech.microsoft.com/)

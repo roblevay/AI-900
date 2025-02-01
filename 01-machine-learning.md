@@ -23,7 +23,7 @@ az group delete --name airg --yes --no-wait
 
 Detta jobb tar ungefär 10-15 minuter
 
-## Deply av Machine-learning-jobbet
+## Deploy av Machine-learning-jobbet
 
 Jag använder den virtuella maskinen Standard_D2as_v4 eftersom det inte fanns tillräcklig quota för Standard_DS3_v2.
 

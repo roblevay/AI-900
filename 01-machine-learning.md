@@ -124,7 +124,7 @@ When the automated machine learning job has completed, you can review the best m
 ## Deploy and test the model
 
 1. On the **Model** tab for the best model trained by your automated machine learning job, select **Deploy** and use the **Real-time endpoint** option to deploy the model with the following settings:
-    - **Virtual machine**: Standard_DS3_v2
+    - **Virtual machine**: Standard_DS3_v2  ***Robert selected Standard_D2as_v4***
     - **Instance count**: 3
     - **Endpoint**: New
     - **Endpoint name**: *Leave the default or make sure it's globally unique*

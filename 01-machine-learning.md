@@ -106,7 +106,7 @@ Automated machine learning enables you to try multiple algorithms and parameters
 
 1. Submit the training job. It starts automatically.
 
-1. Wait for the job to finish. It might take a while — now might be a good time for a coffee break!
+1. Wait for the job to finish. It might take a while — now might be a good time for a coffee break! ***It took 11 minutes when Robert tested***
 
 ## Review the best model
 

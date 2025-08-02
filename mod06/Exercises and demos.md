@@ -6,3 +6,7 @@
 ## Document intelligence
 
 [Extract data from documents in Azure AI Foundry portal](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/10-document-intelligence.md)
+
+## AI Search
+
+[Explore an Azure AI Search index (UI)](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/11-ai-search.md)

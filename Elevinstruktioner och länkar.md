@@ -10,7 +10,7 @@
    _En komplett översikt av certifieringsinnehållet, inklusive ämnen och tips för att klara examen._
 
 4. **Exam Sandbox**: [Simulerar en certifiering](https://www.starttest.com/ITDVersions/24.2.0.0/ITDStart.aspx?SVC=9724cdd7-d4cf-45b6-9d2d-d66bc60ffa83&Json=1)
-   _Använd detta för att få en känsla för certifieringen
+   _Använd detta för att få en känsla för certifieringen_
 
 6. **Get Azure Free Account**: [Azure Free Account](https://azure.microsoft.com/free/)  
    _Skapa ett kostnadsfritt Azure-konto för att testa och experimentera med AI-tjänster i praktiken._
@@ -34,5 +34,6 @@
 [Document Intelligence Studio](https://formrecognizer.appliedai.azure.com/studio)
 
 [Azure AI Foundry](https://ai.azure.com/)
+
 
 

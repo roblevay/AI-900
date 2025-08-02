@@ -5,3 +5,7 @@
 ## Explore speach
 
 [Explore Speech in Azure AI Foundry Portal](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/09-speech.md)
+
+## Question answering
+
+[Use Question Answering with the Language Studio](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/07-question-answering.md)

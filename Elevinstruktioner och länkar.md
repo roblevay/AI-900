@@ -12,10 +12,10 @@
 4. **Exam Sandbox**: [Simulerar en certifiering](https://www.starttest.com/ITDVersions/24.2.0.0/ITDStart.aspx?SVC=9724cdd7-d4cf-45b6-9d2d-d66bc60ffa83&Json=1)
    _Använd detta för att få en känsla för certifieringen_
 
-6. **Get Azure Free Account**: [Azure Free Account](https://azure.microsoft.com/free/)  
+5. **Get Azure Free Account**: [Azure Free Account](https://azure.microsoft.com/free/)  
    _Skapa ett kostnadsfritt Azure-konto för att testa och experimentera med AI-tjänster i praktiken._
 
-7. **Practice Tests**  
+6. **Practice Tests**  
    [AI-900 Practice Tests](https://www.measureup.com/catalogsearch/result/?q=ai900)  
    _Övningsprov från MeasureUp som efterliknar examenens struktur och innehåll._
 
@@ -34,6 +34,7 @@
 [Document Intelligence Studio](https://formrecognizer.appliedai.azure.com/studio)
 
 [Azure AI Foundry](https://ai.azure.com/)
+
 
 
 

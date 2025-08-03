@@ -18,6 +18,10 @@
 6. **Practice Tests**  
    [AI-900 Practice Tests](https://www.measureup.com/catalogsearch/result/?q=ai900)  
    _Övningsprov från MeasureUp som efterliknar examenens struktur och innehåll._
+   
+7. **Course Files**
+   [Files on Onedrive](https://1drv.ms/f/c/fb5c7f8b8caa2fb7/Es30hfyFNM9OnF9U_Az-GGgBHED3B0VFCm5NAW2Lma_Yog?e=youAuA)
+   _En katalog med kursfiler_
 
 ## Portaler
 
@@ -48,6 +52,7 @@ _ta bort_
 ``
 az group delete --name airg --yes --no-wait
 ``
+
 
 
 

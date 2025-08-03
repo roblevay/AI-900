@@ -47,8 +47,8 @@ _ta bort_
 
 ``
 az group delete --name airg --yes --no-wait
-
 ``
+
 
 
 

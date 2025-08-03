@@ -35,6 +35,12 @@
 
 [Azure AI Foundry](https://ai.azure.com/)
 
+## Skapa och ta bort en resursgrupp
+
+``
+az group create --name airg --location eastus
+``
+
 
 
 

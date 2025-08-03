@@ -58,3 +58,4 @@ az group delete --name airg --yes --no-wait
 
 
 
+

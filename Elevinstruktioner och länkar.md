@@ -38,15 +38,18 @@
 ## Skapa och ta bort en resursgrupp
 
 _skapa_
+
 ``
 az group create --name airg --location eastus
 ``
+
 _ta bort_
 
 ``
 az group delete --name airg --yes --no-wait
 
 ``
+
 
 
 

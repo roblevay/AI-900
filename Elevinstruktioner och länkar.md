@@ -54,6 +54,17 @@ az group delete --name airg --yes --no-wait
 ``
 
 
+Här är de officiella ämnesområdena som ingår i AI‑900‑tentan (Microsoft Azure AI Fundamentals), inklusive deras vikt i procent, enligt Microsoft Learn:
+
+Describe Artificial Intelligence workloads and considerations: 15–20 %
+
+Describe fundamental principles of machine learning on Azure: 15–20 %
+
+Describe features of computer vision workloads on Azure: 15–20 %
+
+Describe features of Natural Language Processing (NLP) workloads on Azure: 15–20 %
+
+Describe features of generative AI workloads on Azure: 20–25 % 
 
 
 

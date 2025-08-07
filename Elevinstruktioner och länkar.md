@@ -66,7 +66,8 @@ Describe features of Natural Language Processing (NLP) workloads on Azure: 15–
 
 Describe features of generative AI workloads on Azure: 20–25 % 
 
-[https://learn.microsoft.com/en-us/credentials/certifications/resources/study‑guides/ai‑900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study%E2%80%91guides/ai%E2%80%91900)
+[https://learn.microsoft.com/en-us/credentials/certifications/resources/study%E2%80%91guides/ai%E2%80%91900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900)
+
 
 
 

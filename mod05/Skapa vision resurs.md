@@ -19,45 +19,21 @@
 
 ---
 
-### 2. Koppla resursen till ditt Foundry-projekt
+2. Azure AI Vision Studio (rekommenderat för undervisning)
 
-1. Gå till **Azure AI Foundry** → välj ditt projekt (*robert-westeur*).
-2. Under **Project details** ser du ”Connect resources”.
-3. Klicka där och lägg till din nya **Azure AI Vision**-resurs.
+Det här är ett separat webbaserat gränssnitt som är gjort för att testa Vision på ett enkelt och klickbart sätt.
 
----
+Gå till: https://portal.vision.cognitive.azure.com/
 
-### 3. Använd Vision + Document
+Logga in med samma konto som du använder i Azure.
 
-När resursen är kopplad kan du använda den på två sätt:
+Där kan eleverna:
 
-#### a) Via **Playgrounds** i AI Foundry
+Ladda upp bilder/dokument.
 
-* Gå till **Playgrounds** i vänstermenyn.
-* Där ska du nu se **Vision + Document**-funktioner (OCR, bildanalys, dokumenttolkning).
+Köra OCR och se texten direkt.
 
-#### b) Via API
+Testa objektigenkänning, ansiktsdetektering, formulärtolkning m.m.
 
-* Under **Endpoints and keys** i Foundry hittar du API-nyckeln och endpoint.
-* Använd dessa för att anropa Vision API, t.ex. för OCR, dokumentanalys eller bildtolkning.
-* Exempel på endpoint (din blir liknande):
-
-  ```
-  https://<ditt-namn>.cognitiveservices.azure.com/
-  ```
-
----
-
-### 4. Testa med OCR eller dokumenttolkning
-
-* Ladda upp en bild eller PDF via Playground.
-* Välj ”Extract text” eller ”Analyze document”.
-* Du får då ut text och metadata direkt i Foundry.
-
----
-
-👉 Efter detta har du alltså samma funktioner som den gamla *”AI Services → Vision + Document”*-knappen gav – men nu i det nya gränssnittet.
-
----
-
+Ingen kod krävs – allt sker i en webblabbmiljö.
 

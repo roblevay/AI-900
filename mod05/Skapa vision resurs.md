@@ -27,13 +27,4 @@ Gå till: https://portal.vision.cognitive.azure.com/
 
 Logga in med samma konto som du använder i Azure.
 
-Där kan eleverna:
-
-Ladda upp bilder/dokument.
-
-Köra OCR och se texten direkt.
-
-Testa objektigenkänning, ansiktsdetektering, formulärtolkning m.m.
-
-Ingen kod krävs – allt sker i en webblabbmiljö.
 

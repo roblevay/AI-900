@@ -7,14 +7,14 @@
 
 1. Logga in på [Azure Portal](https://portal.azure.com).
 2. Klicka på **Create a resource** (”Skapa en resurs”).
-3. Sök efter **Computer Vision**
+3. Sök efter **Azure AI Services**
 4. Klicka på **Create**.
 5. Fyll i:
 
    * **Subscription**: välj din (du har ”Betala per användning”).
    * **Resource group**: välj samma som för Foundry (t.ex. *airg3*).
    * **Region**: välj samma som Foundry (hos dig *westeurope*).
-   * **Name**: t.ex. `robert-vision`.
+   * **Name**: t.ex. `roblevaigeneral`.
 6. Klicka **Review + Create** och sedan **Create**.
 
 ---

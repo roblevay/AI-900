@@ -5,3 +5,6 @@
 
 [Explore Textanalytics](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/04-module-04.html)
 
+## Text in Microsoft Foundry
+
+[Analyze text in Microsoft Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/03-text-analysis.html)

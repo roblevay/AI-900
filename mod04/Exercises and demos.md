@@ -8,3 +8,7 @@
 ## Text in Microsoft Foundry
 
 [Analyze text in Microsoft Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/03-text-analysis.html)
+
+## Speech
+
+[Explore Speech in Microsoft Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/04-speech.html)

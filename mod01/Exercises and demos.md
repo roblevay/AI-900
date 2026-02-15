@@ -12,3 +12,7 @@
 ## Content Filters
 
 [Apply content filters to prevent the output of harmful content](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html)
+
+## Content Safety
+
+

@@ -1,3 +1,5 @@
+## Ai Foundry
+
 
 [Get started with ai foundry](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Exercises/00-explore-foundry.md
 <img width="1814" height="70" alt="image" src="https://github.com/user-attachments/assets/88cc5413-330e-4c63-af68-19cbd4ecd61a" />)

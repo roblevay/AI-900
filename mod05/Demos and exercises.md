@@ -10,3 +10,9 @@
 
 [Read text in Vision Studio](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/05-ocr.md)
 
+
+
+[Explore computer vision scenarios](https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/04-explore-vision.html)
+
+
+[Analyze images in Microsoft Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/05-image-analysis.html)

@@ -2,9 +2,6 @@
 [Explore natural language processing scenarios](https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/03-explore-nlp.html)
 
 
-## Explore speach
-
-[Explore Speech in Azure AI Foundry Portal](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/09-speech.md)
 
 ## Question answering
 

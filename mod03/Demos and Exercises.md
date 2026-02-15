@@ -10,4 +10,4 @@
 
 
 
-[Explore Generative AI in Bing](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/05-module-05.html)
+[Explore Generative AI with Bing](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/05-module-05.html)

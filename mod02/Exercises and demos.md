@@ -9,3 +9,13 @@
 
 
 [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+
+## Överkurs-övningar
+
+[Explore regression with Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html)
+
+
+[Explore classification with Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html)
+
+[Explore clustering with Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html)

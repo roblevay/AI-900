@@ -5,7 +5,7 @@
 
 If time permits
 
-[Explore Automated Machine Learning]https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/01-machine-learning.html
+[Explore Automated Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/01-machine-learning.html)
 
 
 [Teachable Machine](https://teachablemachine.withgoogle.com/)

@@ -1,6 +1,6 @@
 ## Machine-learning demo
 
-[Explore machine learning scenarios](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Exercises/01-machine-learning.md)
+[Explore machine learning scenarios](https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/01-explore-ml.html)
 
 
 ## If time permits

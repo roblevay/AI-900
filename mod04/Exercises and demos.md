@@ -9,9 +9,6 @@
 
 [Explore Speech in Microsoft Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/04-speech.html)
 
-## Language Understanding
-
-[Explore Language Undesanding](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/04c-conversational-language-understanding.html)
 
 ## Question Answering
 

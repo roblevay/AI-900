@@ -11,3 +11,8 @@ Precision handlar om hur många av de svar man säger är “ja” som faktiskt 
 
 **F1 Score:**
 F1 Score är ett slags medelvärde av precision och recall. Den visar hur bra modellen är på båda samtidigt. Om man både hittar de flesta rätta fallen och inte gissar fel för ofta, då blir F1 Score hög.
+
+
+## Film om neurala nätverk
+
+https://www.youtube.com/watch?v=aircAruvnKk

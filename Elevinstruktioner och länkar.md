@@ -9,7 +9,7 @@
 3. **AI-900 Certification Overview**: [Certification Details](https://learn.microsoft.com/en-us/certifications/exams/ai-900)  
    _En komplett översikt av certifieringsinnehållet, inklusive ämnen och tips för att klara examen._
 
-4. **Exam Sandbox**: [Simulerar en certifiering](https://www.starttest.com/ITDVersions/24.2.0.0/ITDStart.aspx?SVC=9724cdd7-d4cf-45b6-9d2d-d66bc60ffa83&Json=1)
+4. **Exam Sandbox**: [Simulerar en certifiering](https://www.starttest.com/ITDVersions/24.2.0.0/ITDStart.aspx?SVC=5e47e12e-cb93-4325-9d36-3725195daf4a&Json=1)
    _Använd detta för att få en känsla för certifieringen_
 
 5. **Get Azure Free Account**: [Azure Free Account](https://azure.microsoft.com/free/)  
@@ -67,6 +67,7 @@ Describe features of Natural Language Processing (NLP) workloads on Azure: 15–
 Describe features of generative AI workloads on Azure: 20–25 % 
 
 [https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900)
+
 
 
 

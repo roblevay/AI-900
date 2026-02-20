@@ -8,6 +8,6 @@
 [Extract data with Content Understanding in Microsoft Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Exercises/06-content-understanding.html)
 
 
-## Cognitive Search
+## Cognitive Search (OBS ÖVERKURS)
 
 [Explore knowledge mining](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/05-create-cognitive-search-solution.html)
